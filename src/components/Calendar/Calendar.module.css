@@ -1,0 +1,11 @@
+.in input{
+    display: inline-block;
+    width: 80px;
+    border: none;
+}
+
+.in{
+    border: 1px solid black;
+    padding: 2px;
+    margin-left: 3px;
+}

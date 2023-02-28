@@ -1,0 +1,22 @@
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    color: snow;
+    font-size: 25px;
+    padding: 15px;
+    height: 15px;
+}
+
+.Header button {
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.Header h5 {
+    display: inline-block;
+    margin: 10px;
+}
+
